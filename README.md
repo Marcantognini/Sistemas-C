@@ -6,13 +6,13 @@ Aquí se encuentran proyectos sin uso de consola, orientado al trabajo de bajo n
 Proyectos incluidos:
 
 1. Donaciones: Enfoque Secuencial
-- Archivo: "parcial_b_secuencial.c"
+- Archivo: 'parcial_b_secuencial.c'
 - Función: Procesa archivos de tamaño ilimitado mediante doble puntero de archivo para calcular recaudaciones.
 
 2. Donaciones: Enfoque Dinámico
-- Archivo: "parcial_c_practica_malloc.c"
+- Archivo: 'parcial_c_practica_malloc.c'
 - Función: Maximiza la velocidad de respuesta cargando el set de datos en memoria dinámica. Incluye algoritmos de filtrado para evitar duplicados.
 
 3. Estadísticas Universitarias
-- Archivo: "INGRESO_EXAMEN_PRACTICA.c"
+- Archivo: 'INGRESO_EXAMEN_PRACTICA.c'
 - Función: Implementa un sistema de gestión que cruza inscripciones con resultados de exámenes, utilizando una estructura AUX para generar rankings.
